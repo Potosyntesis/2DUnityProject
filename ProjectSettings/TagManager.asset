@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
+  - Interact
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Background
     uniqueID: 1217490195
+    locked: 0
+  - name: Interact
+    uniqueID: 3646713423
     locked: 0
   - name: Foreground
     uniqueID: 252887553
